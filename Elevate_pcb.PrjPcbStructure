@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Edison.SchDoc
+Record=TopLevelDocument|FileName=Elevate_sch.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Elevate_sch.SchDoc|Designator=U_cc3d|SchDesignator=U_cc3d|FileName=cc3d.SchDoc|SymbolType=Normal|RawFileName=cc3d.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Elevate_sch.SchDoc|Designator=U_Edison|SchDesignator=U_Edison|FileName=Edison.SchDoc|SymbolType=Normal|RawFileName=Edison.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
