@@ -37,23 +37,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Elevate_sch.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WIBXCKFC
-
-[Document2]
 DocumentPath=CopterControl 3D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,14 +46,14 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEVMUJTO
 
-[Document3]
+[Document2]
 DocumentPath=connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,14 +63,14 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLASMTYR
 
-[Document4]
+[Document3]
 DocumentPath=usb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,14 +80,14 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGGBKFYH
 
-[Document5]
+[Document4]
 DocumentPath=uart_to_usb_debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -114,14 +97,14 @@ AnnotateScope=All
 AnnotateOrder=12
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPJDAYCW
 
-[Document6]
+[Document5]
 DocumentPath=buttons_and_io_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,14 +114,14 @@ AnnotateScope=All
 AnnotateOrder=9
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIRKGLXU
 
-[Document7]
+[Document6]
 DocumentPath=power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,14 +131,14 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXFRUQMB
 
-[Document8]
+[Document7]
 DocumentPath=Elevate_sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,14 +148,14 @@ AnnotateScope=All
 AnnotateOrder=11
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PERFKQBR
 
-[Document9]
+[Document8]
 DocumentPath=Elevate_sch_bak.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,109 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKPOQQMD
 
+[Document9]
+DocumentPath=WE-MAPI_3015.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGKREGTA
+
 [Document10]
+DocumentPath=WE-MAPI_3012.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGRRJPLH
+
+[Document11]
+DocumentPath=WE-MAPI_3010.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LJRTWSRV
+
+[Document12]
+DocumentPath=WE-MAPI_2510.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LBFHDWGM
+
+[Document13]
+DocumentPath=WE-MAPI_2508.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KPFRYPPR
+
+[Document14]
+DocumentPath=WE-MAPI_2506.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MEXCAXQG
+
+[Document15]
 DocumentPath=HMC5883L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROXQEOUB
 
-[Document11]
+[Document16]
 DocumentPath=IMU.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQAHEWPA
 
-[Document12]
+[Document17]
 DocumentPath=CopterControl 3D.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYPDHLCO
 
-[Document13]
+[Document18]
 DocumentPath=edison_connector_library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document19]
 DocumentPath=elevate_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +359,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKTPVDMS
 
-[Document15]
+[Document20]
+DocumentPath=WE-MAPI.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FJRNUORY
+
+[Document21]
 DocumentPath=HMC5883L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWJQWRGN
 
-[Document16]
+[Document22]
 DocumentPath=IMU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXCDFQHD
 
-[Document17]
+[Document23]
 DocumentPath=CopterControl 3D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUFPXIKU
 
-[Document18]
+[Document24]
 DocumentPath=elevate_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUMGEEOK
 
-[Document19]
+[Document25]
 DocumentPath=import_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJMXQVOL
 
-[Document20]
+[Document26]
 DocumentPath=i2c.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -369,14 +471,14 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYJYVGQV
 
-[Document21]
+[Document27]
 DocumentPath=cc3d_addons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +488,7 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
