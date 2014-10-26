@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Elevate_sch.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WIBXCKFC
+
+[Document2]
 DocumentPath=CopterControl 3D.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEVMUJTO
 
-[Document2]
+[Document3]
 DocumentPath=connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLASMTYR
 
-[Document3]
+[Document4]
 DocumentPath=usb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGGBKFYH
 
-[Document4]
+[Document5]
 DocumentPath=uart_to_usb_debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPJDAYCW
 
-[Document5]
+[Document6]
 DocumentPath=buttons_and_io_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIRKGLXU
 
-[Document6]
+[Document7]
 DocumentPath=power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WXFRUQMB
 
-[Document7]
+[Document8]
 DocumentPath=Elevate_sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PERFKQBR
 
-[Document8]
+[Document9]
 DocumentPath=Elevate_sch_bak.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +189,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKPOQQMD
 
-[Document9]
+[Document10]
+DocumentPath=edison_connector_library\Edison.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OIQBAPWS
+
+[Document11]
+DocumentPath=Edison.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RMKSCIWT
+
+[Document12]
 DocumentPath=WE-MAPI_3015.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGKREGTA
 
-[Document10]
+[Document13]
 DocumentPath=WE-MAPI_3012.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGRRJPLH
 
-[Document11]
+[Document14]
 DocumentPath=WE-MAPI_3010.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJRTWSRV
 
-[Document12]
+[Document15]
 DocumentPath=WE-MAPI_2510.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBFHDWGM
 
-[Document13]
+[Document16]
 DocumentPath=WE-MAPI_2508.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPFRYPPR
 
-[Document14]
+[Document17]
 DocumentPath=WE-MAPI_2506.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MEXCAXQG
 
-[Document15]
+[Document18]
 DocumentPath=HMC5883L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROXQEOUB
 
-[Document16]
+[Document19]
 DocumentPath=IMU.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQAHEWPA
 
-[Document17]
+[Document20]
 DocumentPath=CopterControl 3D.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,24 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYPDHLCO
 
-[Document18]
-DocumentPath=edison_connector_library.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
+[Document21]
 DocumentPath=elevate_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKTPVDMS
 
-[Document20]
+[Document22]
 DocumentPath=WE-MAPI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJRNUORY
 
-[Document21]
+[Document23]
 DocumentPath=HMC5883L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWJQWRGN
 
-[Document22]
+[Document24]
 DocumentPath=IMU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXCDFQHD
 
-[Document23]
+[Document25]
 DocumentPath=CopterControl 3D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUFPXIKU
 
-[Document24]
+[Document26]
 DocumentPath=elevate_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUMGEEOK
 
-[Document25]
+[Document27]
 DocumentPath=import_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJMXQVOL
 
-[Document26]
+[Document28]
 DocumentPath=i2c.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYJYVGQV
 
-[Document27]
+[Document29]
 DocumentPath=cc3d_addons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -494,6 +528,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KMPNVSSJ
+
+[Document30]
+DocumentPath=battery_monitor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KWIBJDJV
 
 [Configuration1]
 Name=Default Configuration
