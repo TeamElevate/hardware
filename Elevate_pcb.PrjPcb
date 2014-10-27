@@ -190,7 +190,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JKPOQQMD
 
 [Document10]
-DocumentPath=edison_connector_library\Edison.SCHLIB
+DocumentPath=Edison.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
