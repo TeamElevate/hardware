@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for Elevate_pcb
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -676,6 +676,10 @@ DocumentPath=Project Outputs for Elevate_pcb\Elevate_sch.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument29]
+DocumentPath=Project Outputs for Elevate_pcb\Footprint Comparison - Elevate_sch.html
+DItemRevisionGUID=
+
+[GeneratedDocument30]
 DocumentPath=Default Configuration\SystemBOM.xml
 DItemRevisionGUID=
 
@@ -726,7 +730,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Elevate_pcb
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
